@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'management.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "friend",
-        "USER": "frienduser",
-        "PASSWORD": "SPGroup",
-        "HOST": "localhost",
+        "NAME": "heroku_80bde26c6ba23fe",
+        "USER": "b59c57cfe5650f",
+        "PASSWORD": "33010f3c",
+        "HOST": "eu-cdbr-west-01.cleardb.com",
         "PORT": "",
     }
 }
