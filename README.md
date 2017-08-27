@@ -1,4 +1,4 @@
-# Friend_Management
+# DRF Friend Management
 
 ## Overview 
 
@@ -19,5 +19,6 @@ django-MySQL-python
 http://.../users - List of users
 http://.../friends/'email address' - List of friends of user
 http://.../followers/'email address' - List of followers of user
+
 
 
