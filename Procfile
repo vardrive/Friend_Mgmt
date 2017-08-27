@@ -1,1 +1,1 @@
-web: gunicorn Friend_Mgmt.wsgi --log-file -
+web: gunicorn Friend_Mgmt.wsgi:friendmgmt --log-file -
