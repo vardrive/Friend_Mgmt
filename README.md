@@ -18,9 +18,9 @@ It features a custom User model to define email as username.
 
 URLs
 ```
-http://localhost/users  			# List of users
-http://localhost/friends/'email address' 	# List of friends of user
-http://localhost/followers/'email address' 	# List of followers of user
+http://localhost/users/  			# List of users
+http://localhost/friends/'email address'/ 	# List of friends of user
+http://localhost/followers/'email address'/ 	# List of followers of user
 ```
 
 
